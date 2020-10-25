@@ -322,6 +322,7 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 1. [限流算法有哪些？](docs/system-design/micro-service/limit-request.md)
 
 #### 分布式接口幂等性
+https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/distributed-system/distributed-system-idempotency.md
 
 #### ZooKeeper
 
