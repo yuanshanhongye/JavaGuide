@@ -339,13 +339,13 @@ https://www.cnblogs.com/lm970585581/p/13237966.html?utm_source=tuicool
 #### 数据库扩展
 
 读写分离、分库分表。
-1.为什么要分库分表（设计高并发系统的时候，数据库层面该如何设计）？用过哪些分库分表中间件？不同的分库分表中间件都有什么优点和缺点？你们具体是如何对数据库如何进行垂直拆分或水平拆分的？
+-为什么要分库分表（设计高并发系统的时候，数据库层面该如何设计）？用过哪些分库分表中间件？不同的分库分表中间件都有什么优点和缺点？你们具体是如何对数据库如何进行垂直拆分或水平拆分的？
 https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/high-concurrency/database-shard.md
-2. 现在有一个未分库分表的系统，未来要分库分表，如何设计才可以让系统从未分库分表动态切换到分库分表上？
+- 现在有一个未分库分表的系统，未来要分库分表，如何设计才可以让系统从未分库分表动态切换到分库分表上？
 https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/high-concurrency/database-shard-method.md
-3. 如何设计可以动态扩容缩容的分库分表方案？
+-如何设计可以动态扩容缩容的分库分表方案？
 https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/high-concurrency/database-shard-dynamic-expand.md
-4.分库分表之后，id 主键如何处理？
+-分库分表之后，id 主键如何处理？
 https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/high-concurrency/database-shard-global-id-generate.md
 
 
