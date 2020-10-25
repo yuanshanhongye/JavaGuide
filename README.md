@@ -324,6 +324,9 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 #### 分布式接口幂等性
 https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/distributed-system/distributed-system-idempotency.md
 
+### 分布式接口顺序性
+https://www.cnblogs.com/lm970585581/p/13237966.html?utm_source=tuicool
+
 #### ZooKeeper
 
 > 前两篇文章可能有内容重合部分，推荐都看一遍。
@@ -331,10 +334,6 @@ https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/distributed-syst
 1. [【入门】ZooKeeper 相关概念总结 01](docs/system-design/framework/zookeeper/zookeeper-intro.md)
 2. [【进阶】ZooKeeper 相关概念总结 02](docs/system-design/framework/zookeeper/zookeeper-plus.md)
 3. [【实战】ZooKeeper 实战](docs/system-design/framework/zookeeper/zookeeper-in-action.md)
-
-#### 其他
-
-- 接口幂等性（代办）：分布式系统必须要考虑接口的幂等性。
 
 #### 数据库扩展
 
