@@ -324,7 +324,7 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 #### 分布式接口幂等性
 https://gitee.com/yuanshanhongye/advanced-java/blob/master/docs/distributed-system/distributed-system-idempotency.md
 
-### 分布式接口顺序性
+#### 分布式接口顺序性
 https://www.cnblogs.com/lm970585581/p/13237966.html?utm_source=tuicool
 
 #### ZooKeeper
